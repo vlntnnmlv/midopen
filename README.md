@@ -1,6 +1,4 @@
-# mindopen
-
-## Brainfuck compiler.
+# Mindopen, Brainfuck compiler.
 Brainfuck has 8 instructions:
 - '+' -	increment current mem_ptr value
 - '-' -	decerment current mem_ptr value
